@@ -1,0 +1,23 @@
+// made by Pankaj Naroriya Bsc(H) Physics
+// roll no- 19/BHP/016
+
+#include <iostream>
+using namespace std;
+int main()
+{
+	float	length,breadth, areaofrectangle;
+
+	cout<< "give the value of length in m " ;
+	cin>> length ;
+	
+	cout<< "give the value of breadth in m " ;
+	cin>> breadth;
+	
+	areaofrectangle= (length*breadth);		
+	cout<<"area of rectangle in (metresq) is " <<areaofrectangle ;
+	return 0;
+	
+
+
+
+}
